@@ -1,35 +1,43 @@
-42 Kocaeli - Piscine Projeleri
+## 🤖 Piscine Projects | Ecole 42
 
 Bu repository, 42 Kocaeli'nin "Piscine" (Havuz) olarak adlandırılan yoğunlaştırılmış temel kodlama eğitimi sürecinde tamamladığım projeleri ve alıştırmaları içermektedir. Piscine, yaklaşık bir ay süren ve C programlama dilinin temellerini, Shell betiklerini ve temel algoritma mantığını kapsayan bir eğitimdir.
 
-🚀 Hakkında
+#### 🚀 Hakkında
 
 Bu repo, Piscine boyunca edindiğim bilgileri ve çözdüğüm problemleri arşivlemek amacıyla oluşturulmuştur. Her bir klasör, Piscine'in bir projesidir.
 
-📂 Dizin Yapısı
-SHELL00 & SHELL01: Temel Unix/Linux komutları ve Shell betikleştirme alıştırmaları.
+#### 📂 Dizin Yapısı
 
-c00 - c07: C programlama dilinin temellerini kapsayan havuz sürecinde teslim ettiğim projelerdir. Bu egsersizler genellikle aşağıdaki gibi konuları içerir:
+**SHELL00 & SHELL01**: Temel Unix/Linux komutları ve Shell betikleştirme alıştırmaları.
 
-Değişkenler, fonksiyonlar, döngüler ve koşullu ifadeler.
+**c00 - c07**: C programlama dilinin temellerini kapsayan havuz sürecinde teslim ettiğim projelerdir. Bu egsersizler genellikle aşağıdaki gibi konuları içerir:
 
-Pointer'lar (işaretçiler) ve bellek yönetimi.
+- Değişkenler, fonksiyonlar, döngüler ve koşullu ifadeler.
 
-Diziler (array) ve karakter dizileri (string) manipülasyonu.
+- Pointer'lar (işaretçiler) ve bellek yönetimi.
 
-Program derleme süreci ve make dosyaları.
+- Diziler (array) ve karakter dizileri (string) manipülasyonu.
 
-Recursive (özyinelemeli) fonksiyonlar.
+- Program derleme süreci ve make dosyaları.
 
-EXAM01_HAZIRLIK & EXAM02_HAZIRLIK: Sınavlara hazırlık amacıyla yapılan ek alıştırmalar ve denemeler.
+- Recursive (özyinelemeli) fonksiyonlar.
 
-💻 Kullanılan Teknolojiler
+---
+
+**EXAM01_HAZIRLIK & EXAM02_HAZIRLIK**: Sınavlara hazırlık amacıyla yapılan ek alıştırmalar ve denemeler.
+
+#### 💻 Kullanılan Teknolojiler
     
-C Programlama Dili
+- C Programlama Dili
 
-Shell Scripting (Bash/Zsh)
+- Shell Scripting (Bash/Zsh)
 
-Git & GitHub
+- Git & GitHub
 
-⚠️ Sorumluluk Reddi
+---
+
+#### ⚠️ Sorumluluk Reddi
+
 Bu repository'deki çözümler tamamen eğitim ve portföy amaçlıdır. 42'nin onur kuralları (honour code) gereği, Piscine sürecindeki öğrencilerin çözümleri kopyalaması kesinlikle yasaktır. Buradaki kodlar, süreci tamamlamış biri olarak gelişimimi göstermek ve gelecekteki projelerim için bir referans noktası oluşturmak amacıyla paylaşılmıştır.
+
+---
